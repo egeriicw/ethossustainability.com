@@ -3,7 +3,7 @@ baseURL = "" # "http://examplesite.org"
 title = "ETHOS | "
 languageCode = "en-us"
 theme = "ethos"
-themesDir = "*"
+themesDir = "themes"
 # post pagination
 paginate = "4"
 # post excerpt
