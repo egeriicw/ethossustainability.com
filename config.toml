@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "" # "http://examplesite.org"
+baseURL = "/" # "http://examplesite.org"
 title = "ETHOS | "
 theme = "ethos"
 #themesDir = ""
