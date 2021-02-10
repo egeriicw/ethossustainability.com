@@ -159,13 +159,13 @@ URL = "/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "About"
-URL = "about"
+name = "Home2"
+URL = "/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Project"
-URL = "project"
+name = "Services"
+URL = "services"
 weight = 3
 
 [[Languages.en.menu.main]]
@@ -173,30 +173,32 @@ name = "Blog"
 URL = "blog"
 weight = 4
 
-[[Languages.en.menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
+#[[Languages.en.menu.main]]
+#weight = 5
+#name = "Pages"
+#hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "FAQ"
+#  URL = "faq"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "Pricing"
+#  URL = "pricing"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "Service"
-  URL = "service"
+#  [[Languages.en.menu.main]]
+#  parent = "Pages"
+#  name = "Service"
+#  URL = "service"
   
+
+
 [[Languages.en.menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 6
+weight = 5
 
 
 # footer menu
