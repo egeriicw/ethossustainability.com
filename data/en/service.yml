@@ -46,7 +46,7 @@ service:
     # service item loop
     - icon : ion-earth # ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
       name: Strategy
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      content: "We work with organizations and companies to identify and set their strategic sustainable energy goals and actions; and identify tangible and practical their strategic sustainability vision that drives organizational and business value, and benefits the organizaiton or company and stakeholders alike."
 
     # service item loop
     - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
